@@ -1,0 +1,1433 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1766871427778,259,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,8,8,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,259,0,126
+1766871427897,153,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,8,8,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,153,0,52
+1766871427937,128,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,9,9,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,128,0,49
+1766871427977,141,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,10,10,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,141,0,55
+1766871428055,130,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,12,12,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,130,0,55
+1766871428037,195,POST Login,200,OK,Thread Group 50 Users 1-2,text,true,,38427,2297,13,13,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,72,0,0
+1766871428037,72,POST Login-0,302,Found,Thread Group 50 Users 1-2,,true,,715,822,13,13,https://resonance.dibimbing.id/api/auth/callback/login?,72,0,0
+1766871428109,62,POST Login-1,302,Found,Thread Group 50 Users 1-2,,true,,722,723,13,13,https://resonance.dibimbing.id/api/auth/signin?csrf=true,62,0,0
+1766871428172,60,POST Login-2,200,OK,Thread Group 50 Users 1-2,text,true,,36990,752,13,13,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,58,0,0
+1766871428097,136,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,13,13,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,136,0,55
+1766871428065,184,POST Login,200,OK,Thread Group 50 Users 1-6,text,true,,38427,2301,13,13,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,68,0,0
+1766871428065,68,POST Login-0,302,Found,Thread Group 50 Users 1-6,,true,,715,826,13,13,https://resonance.dibimbing.id/api/auth/callback/login?,68,0,0
+1766871428133,61,POST Login-1,302,Found,Thread Group 50 Users 1-6,,true,,722,723,13,13,https://resonance.dibimbing.id/api/auth/signin?csrf=true,61,0,0
+1766871428194,55,POST Login-2,200,OK,Thread Group 50 Users 1-6,text,true,,36990,752,13,13,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,53,0,0
+1766871428135,158,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,14,14,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,158,0,57
+1766871428177,128,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,15,15,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,128,0,57
+1766871428249,67,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,15,15,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,67,0,0
+1766871428217,144,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,16,16,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,144,0,55
+1766871428257,139,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,17,17,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,139,0,57
+1766871428186,219,POST Login,200,OK,Thread Group 50 Users 1-9,text,true,,38427,2285,17,17,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,66,0,0
+1766871428186,66,POST Login-0,302,Found,Thread Group 50 Users 1-9,,true,,715,810,17,17,https://resonance.dibimbing.id/api/auth/callback/login?,66,0,0
+1766871428252,98,POST Login-1,302,Found,Thread Group 50 Users 1-9,,true,,722,723,17,17,https://resonance.dibimbing.id/api/auth/signin?csrf=true,98,0,0
+1766871428350,55,POST Login-2,200,OK,Thread Group 50 Users 1-9,text,true,,36990,752,17,17,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,52,0,0
+1766871428405,68,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,19,19,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,68,0,0
+1766871428233,246,POST Login,200,OK,Thread Group 50 Users 1-10,text,true,,38427,2297,19,19,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,102,0,0
+1766871428233,102,POST Login-0,302,Found,Thread Group 50 Users 1-10,,true,,715,822,19,19,https://resonance.dibimbing.id/api/auth/callback/login?,102,0,0
+1766871428335,72,POST Login-1,302,Found,Thread Group 50 Users 1-10,,true,,722,723,19,19,https://resonance.dibimbing.id/api/auth/signin?csrf=true,72,0,0
+1766871428407,72,POST Login-2,200,OK,Thread Group 50 Users 1-10,text,true,,36990,752,19,19,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,71,0,0
+1766871428293,207,POST Login,200,OK,Thread Group 50 Users 1-11,text,true,,38427,2299,20,20,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,80,0,0
+1766871428293,80,POST Login-0,302,Found,Thread Group 50 Users 1-11,,true,,715,824,20,20,https://resonance.dibimbing.id/api/auth/callback/login?,80,0,0
+1766871428373,71,POST Login-1,302,Found,Thread Group 50 Users 1-11,,true,,722,723,20,20,https://resonance.dibimbing.id/api/auth/signin?csrf=true,71,0,0
+1766871428444,56,POST Login-2,200,OK,Thread Group 50 Users 1-11,text,true,,36990,752,20,20,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,54,0,0
+1766871428372,139,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,20,20,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,139,0,51
+1766871428305,206,POST Login,200,OK,Thread Group 50 Users 1-12,text,true,,38427,2293,20,20,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,79,0,0
+1766871428305,79,POST Login-0,302,Found,Thread Group 50 Users 1-12,,true,,715,818,20,20,https://resonance.dibimbing.id/api/auth/callback/login?,79,0,0
+1766871428384,71,POST Login-1,302,Found,Thread Group 50 Users 1-12,,true,,722,723,20,20,https://resonance.dibimbing.id/api/auth/signin?csrf=true,71,0,0
+1766871428455,56,POST Login-2,200,OK,Thread Group 50 Users 1-12,text,true,,36990,752,20,20,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,53,0,0
+1766871428479,70,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,21,21,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,70,0,0
+1766871428050,509,POST Login,200,OK,Thread Group 50 Users 1-5,text,true,,38427,2299,21,21,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,75,0,0
+1766871428050,75,POST Login-0,302,Found,Thread Group 50 Users 1-5,,true,,715,824,21,21,https://resonance.dibimbing.id/api/auth/callback/login?,75,0,0
+1766871428125,374,POST Login-1,302,Found,Thread Group 50 Users 1-5,,true,,722,723,21,21,https://resonance.dibimbing.id/api/auth/signin?csrf=true,374,0,0
+1766871428499,60,POST Login-2,200,OK,Thread Group 50 Users 1-5,text,true,,36990,752,21,21,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,54,0,0
+1766871428417,144,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,21,21,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,144,0,51
+1766871428473,102,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,21,21,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",102,0,0
+1766871428017,566,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,22,22,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,566,0,52
+1766871428362,230,POST Login,200,OK,Thread Group 50 Users 1-13,text,true,,38427,2281,22,22,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,73,0,0
+1766871428362,73,POST Login-0,302,Found,Thread Group 50 Users 1-13,,true,,715,806,22,22,https://resonance.dibimbing.id/api/auth/callback/login?,73,0,0
+1766871428435,86,POST Login-1,302,Found,Thread Group 50 Users 1-13,,true,,722,723,22,22,https://resonance.dibimbing.id/api/auth/signin?csrf=true,86,0,0
+1766871428521,71,POST Login-2,200,OK,Thread Group 50 Users 1-13,text,true,,36990,752,22,22,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,69,0,0
+1766871428500,104,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,22,22,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,104,0,0
+1766871428549,71,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,23,23,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",71,0,0
+1766871428559,81,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,23,23,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,81,0,0
+1766871428396,255,POST Login,200,OK,Thread Group 50 Users 1-14,text,true,,38427,2281,23,23,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,90,0,0
+1766871428396,90,POST Login-0,302,Found,Thread Group 50 Users 1-14,,true,,715,806,23,23,https://resonance.dibimbing.id/api/auth/callback/login?,90,0,0
+1766871428486,108,POST Login-1,302,Found,Thread Group 50 Users 1-14,,true,,722,723,23,23,https://resonance.dibimbing.id/api/auth/signin?csrf=true,108,0,0
+1766871428594,57,POST Login-2,200,OK,Thread Group 50 Users 1-14,text,true,,36990,752,23,23,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,56,0,0
+1766871428497,166,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,24,24,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,166,0,65
+1766871428575,111,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,24,24,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",111,0,0
+1766871428640,70,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,24,24,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",70,0,0
+1766871428577,149,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,24,24,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,149,0,48
+1766871428604,133,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,24,24,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",133,0,0
+1766871428651,105,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,25,25,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,105,0,0
+1766871428657,127,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,26,26,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,127,0,52
+1766871428711,89,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,26,26,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",89,0,0
+1766871428561,240,POST Login,200,OK,Thread Group 50 Users 1-18,text,true,,38427,2299,25,25,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,90,0,0
+1766871428561,90,POST Login-0,302,Found,Thread Group 50 Users 1-18,,true,,715,824,25,25,https://resonance.dibimbing.id/api/auth/callback/login?,90,0,0
+1766871428651,95,POST Login-1,302,Found,Thread Group 50 Users 1-18,,true,,722,723,25,25,https://resonance.dibimbing.id/api/auth/signin?csrf=true,95,0,0
+1766871428746,55,POST Login-2,200,OK,Thread Group 50 Users 1-18,text,true,,36990,752,25,25,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,54,0,0
+1766871428697,128,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,26,26,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,128,0,56
+1766871428584,252,POST Login,200,OK,Thread Group 50 Users 1-8,text,true,,38427,2281,26,26,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,89,0,0
+1766871428584,89,POST Login-0,302,Found,Thread Group 50 Users 1-8,,true,,715,806,26,26,https://resonance.dibimbing.id/api/auth/callback/login?,89,0,0
+1766871428673,102,POST Login-1,302,Found,Thread Group 50 Users 1-8,,true,,722,723,26,26,https://resonance.dibimbing.id/api/auth/signin?csrf=true,102,0,0
+1766871428775,61,POST Login-2,200,OK,Thread Group 50 Users 1-8,text,true,,36990,752,26,26,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,57,0,0
+1766871428801,63,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,27,27,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,63,0,0
+1766871428663,227,POST Login,200,OK,Thread Group 50 Users 1-20,text,true,,38427,2285,27,27,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,101,0,0
+1766871428663,101,POST Login-0,302,Found,Thread Group 50 Users 1-20,,true,,715,810,27,27,https://resonance.dibimbing.id/api/auth/callback/login?,101,0,0
+1766871428764,74,POST Login-1,302,Found,Thread Group 50 Users 1-20,,true,,722,723,27,27,https://resonance.dibimbing.id/api/auth/signin?csrf=true,74,0,0
+1766871428838,52,POST Login-2,200,OK,Thread Group 50 Users 1-20,text,true,,36990,752,27,27,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,48,0,0
+1766871428777,123,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,28,28,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,123,0,51
+1766871428836,77,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,28,28,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,77,0,0
+1766871428727,204,POST Login,200,OK,Thread Group 50 Users 1-22,text,true,,38427,2285,28,28,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,77,0,0
+1766871428727,77,POST Login-0,302,Found,Thread Group 50 Users 1-22,,true,,715,810,28,28,https://resonance.dibimbing.id/api/auth/callback/login?,77,0,0
+1766871428804,68,POST Login-1,302,Found,Thread Group 50 Users 1-22,,true,,722,723,28,28,https://resonance.dibimbing.id/api/auth/signin?csrf=true,68,0,0
+1766871428872,59,POST Login-2,200,OK,Thread Group 50 Users 1-22,text,true,,36990,752,28,28,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,52,0,0
+1766871428864,73,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,29,29,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",73,0,0
+1766871428817,129,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,29,29,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,129,0,54
+1766871428453,506,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,29,29,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,506,0,58
+1766871428784,205,POST Login,200,OK,Thread Group 50 Users 1-24,text,true,,38427,2301,30,30,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,67,0,0
+1766871428784,67,POST Login-0,302,Found,Thread Group 50 Users 1-24,,true,,715,826,30,30,https://resonance.dibimbing.id/api/auth/callback/login?,67,0,0
+1766871428851,82,POST Login-1,302,Found,Thread Group 50 Users 1-24,,true,,722,723,30,30,https://resonance.dibimbing.id/api/auth/signin?csrf=true,82,0,0
+1766871428933,56,POST Login-2,200,OK,Thread Group 50 Users 1-24,text,true,,36990,752,30,30,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,54,0,0
+1766871428857,133,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,30,30,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,133,0,51
+1766871428914,85,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,30,30,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",85,0,0
+1766871428931,81,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,30,30,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,81,0,0
+1766871428825,208,POST Login,200,OK,Thread Group 50 Users 1-25,text,true,,38427,2287,31,31,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,65,0,0
+1766871428825,65,POST Login-0,302,Found,Thread Group 50 Users 1-25,,true,,715,812,31,31,https://resonance.dibimbing.id/api/auth/callback/login?,65,0,0
+1766871428890,86,POST Login-1,302,Found,Thread Group 50 Users 1-25,,true,,722,723,31,31,https://resonance.dibimbing.id/api/auth/signin?csrf=true,86,0,0
+1766871428976,57,POST Login-2,200,OK,Thread Group 50 Users 1-25,text,true,,36990,752,31,31,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,55,0,0
+1766871428896,141,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,31,31,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,141,0,53
+1766871428890,163,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,31,31,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,163,0,0
+1766871428937,123,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,32,32,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,123,0,54
+1766871428989,83,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,32,32,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,83,0,0
+1766871429000,100,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,33,33,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",100,0,0
+1766871429012,102,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,32,32,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",102,0,0
+1766871428537,587,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,32,32,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,587,0,57
+1766871429033,108,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,33,33,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,108,0,0
+1766871429073,96,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,33,33,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",96,0,0
+1766871429114,67,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,34,34,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",67,0,0
+1766871429017,182,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,33,33,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,182,0,55
+1766871429142,76,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,34,34,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",76,0,0
+1766871429097,134,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,34,34,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,134,0,51
+1766871429170,84,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,34,34,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",84,0,0
+1766871429137,150,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,34,34,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,150,0,55
+1766871429219,82,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,35,35,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",82,0,0
+1766871429060,245,POST Login,200,OK,Thread Group 50 Users 1-31,text,true,,38427,2281,34,34,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,96,0,0
+1766871429060,96,POST Login-0,302,Found,Thread Group 50 Users 1-31,,true,,715,806,34,34,https://resonance.dibimbing.id/api/auth/callback/login?,96,0,0
+1766871429156,84,POST Login-1,302,Found,Thread Group 50 Users 1-31,,true,,722,723,34,34,https://resonance.dibimbing.id/api/auth/signin?csrf=true,84,0,0
+1766871429240,65,POST Login-2,200,OK,Thread Group 50 Users 1-31,text,true,,36990,752,34,34,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,54,0,0
+1766871429177,148,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,34,34,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,148,0,58
+1766871429124,208,POST Login,200,OK,Thread Group 50 Users 1-21,text,true,,38427,2297,34,34,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,80,0,0
+1766871429124,80,POST Login-0,302,Found,Thread Group 50 Users 1-21,,true,,715,822,34,34,https://resonance.dibimbing.id/api/auth/callback/login?,80,0,0
+1766871429204,71,POST Login-1,302,Found,Thread Group 50 Users 1-21,,true,,722,723,34,34,https://resonance.dibimbing.id/api/auth/signin?csrf=true,71,0,0
+1766871429275,57,POST Login-2,200,OK,Thread Group 50 Users 1-21,text,true,,36990,752,34,34,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,55,0,0
+1766871429217,128,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,35,35,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,128,0,49
+1766871429256,113,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,35,35,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,113,0,48
+1766871429306,75,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,36,36,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,75,0,0
+1766871429332,71,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,36,36,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,71,0,0
+1766871429297,179,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,38,38,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,179,0,52
+1766871429336,192,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,39,39,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,192,0,56
+1766871429375,167,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,40,40,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,167,0,49
+1766871429417,134,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,40,40,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,134,0,50
+1766871429287,282,POST Login,200,OK,Thread Group 50 Users 1-36,text,true,,38427,2287,40,40,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,68,0,0
+1766871429287,68,POST Login-0,302,Found,Thread Group 50 Users 1-36,,true,,715,812,40,40,https://resonance.dibimbing.id/api/auth/callback/login?,68,0,0
+1766871429355,161,POST Login-1,302,Found,Thread Group 50 Users 1-36,,true,,722,723,40,40,https://resonance.dibimbing.id/api/auth/signin?csrf=true,161,0,0
+1766871429517,52,POST Login-2,200,OK,Thread Group 50 Users 1-36,text,true,,36990,752,40,40,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,49,0,0
+1766871429456,121,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,40,40,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,121,0,50
+1766871429569,68,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,42,42,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,68,0,0
+1766871429537,128,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,43,43,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,128,0,49
+1766871429637,76,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,44,44,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",76,0,0
+1766871429528,202,POST Login,200,OK,Thread Group 50 Users 1-41,text,true,,38427,2295,44,44,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,60,0,0
+1766871429528,60,POST Login-0,302,Found,Thread Group 50 Users 1-41,,true,,715,820,44,44,https://resonance.dibimbing.id/api/auth/callback/login?,60,0,0
+1766871429589,87,POST Login-1,302,Found,Thread Group 50 Users 1-41,,true,,722,723,44,44,https://resonance.dibimbing.id/api/auth/signin?csrf=true,87,0,0
+1766871429676,54,POST Login-2,200,OK,Thread Group 50 Users 1-41,text,true,,36990,752,44,44,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,50,0,0
+1766871429617,117,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,44,44,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,117,0,49
+1766871429577,175,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,44,44,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,175,0,50
+1766871429542,221,POST Login,200,OK,Thread Group 50 Users 1-42,text,true,,38427,2291,44,44,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,72,0,0
+1766871429542,72,POST Login-0,302,Found,Thread Group 50 Users 1-42,,true,,715,816,44,44,https://resonance.dibimbing.id/api/auth/callback/login?,72,0,0
+1766871429614,87,POST Login-1,302,Found,Thread Group 50 Users 1-42,,true,,722,723,44,44,https://resonance.dibimbing.id/api/auth/signin?csrf=true,87,0,0
+1766871429701,62,POST Login-2,200,OK,Thread Group 50 Users 1-42,text,true,,36990,752,44,44,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,60,0,0
+1766871429577,216,POST Login,200,OK,Thread Group 50 Users 1-44,text,true,,38427,2285,44,44,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,71,0,0
+1766871429577,71,POST Login-0,302,Found,Thread Group 50 Users 1-44,,true,,715,810,44,44,https://resonance.dibimbing.id/api/auth/callback/login?,71,0,0
+1766871429649,82,POST Login-1,302,Found,Thread Group 50 Users 1-44,,true,,722,723,44,44,https://resonance.dibimbing.id/api/auth/signin?csrf=true,82,0,0
+1766871429731,62,POST Login-2,200,OK,Thread Group 50 Users 1-44,text,true,,36990,752,44,44,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,60,0,0
+1766871429713,81,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,44,44,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",81,0,0
+1766871429552,270,POST Login,200,OK,Thread Group 50 Users 1-43,text,true,,38427,2291,43,43,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,135,0,0
+1766871429552,135,POST Login-0,302,Found,Thread Group 50 Users 1-43,,true,,715,816,43,43,https://resonance.dibimbing.id/api/auth/callback/login?,135,0,0
+1766871429687,77,POST Login-1,302,Found,Thread Group 50 Users 1-43,,true,,722,723,43,43,https://resonance.dibimbing.id/api/auth/signin?csrf=true,77,0,0
+1766871429764,58,POST Login-2,200,OK,Thread Group 50 Users 1-43,text,true,,36990,752,43,43,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,56,0,0
+1766871429730,104,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,43,43,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,104,0,0
+1766871429697,148,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,43,43,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,148,0,50
+1766871429793,76,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,43,43,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,76,0,0
+1766871429822,87,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,43,43,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,87,0,0
+1766871429834,78,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,43,43,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",78,0,0
+1766871429869,65,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,43,43,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",65,0,0
+1766871429752,211,POST Login,200,OK,Thread Group 50 Users 1-47,text,true,,38427,2287,43,43,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,65,0,0
+1766871429752,65,POST Login-0,302,Found,Thread Group 50 Users 1-47,,true,,715,812,43,43,https://resonance.dibimbing.id/api/auth/callback/login?,65,0,0
+1766871429817,91,POST Login-1,302,Found,Thread Group 50 Users 1-47,,true,,722,723,43,43,https://resonance.dibimbing.id/api/auth/signin?csrf=true,91,0,0
+1766871429908,55,POST Login-2,200,OK,Thread Group 50 Users 1-47,text,true,,36990,752,43,43,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,53,0,0
+1766871429735,237,POST Login,200,OK,Thread Group 50 Users 1-48,text,true,,38427,2291,43,43,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,73,0,0
+1766871429735,73,POST Login-0,302,Found,Thread Group 50 Users 1-48,,true,,715,816,43,43,https://resonance.dibimbing.id/api/auth/callback/login?,73,0,0
+1766871429808,68,POST Login-1,302,Found,Thread Group 50 Users 1-48,,true,,722,723,43,43,https://resonance.dibimbing.id/api/auth/signin?csrf=true,68,0,0
+1766871429876,96,POST Login-2,200,OK,Thread Group 50 Users 1-48,text,true,,36990,752,43,43,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,93,0,0
+1766871429910,72,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,43,43,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",72,0,0
+1766871429934,75,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,43,43,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",75,0,0
+1766871429963,71,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,42,42,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,71,0,0
+1766871429972,75,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,42,42,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,75,0,0
+1766871429982,78,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,42,42,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",78,0,0
+1766871430034,62,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,41,41,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",62,0,0
+1766871430047,80,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,41,41,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",80,0,0
+1766871430097,63,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,41,41,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",63,0,0
+1766871430128,64,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,40,40,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",64,0,0
+1766871428118,2386,POST Login,200,OK,Thread Group 50 Users 1-7,text,true,,38427,2297,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2248,0,0
+1766871428118,2248,POST Login-0,302,Found,Thread Group 50 Users 1-7,,true,,715,822,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,2248,0,0
+1766871430366,80,POST Login-1,302,Found,Thread Group 50 Users 1-7,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,80,0,0
+1766871430447,57,POST Login-2,200,OK,Thread Group 50 Users 1-7,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,55,0,0
+1766871427857,2812,POST Create User,200,OK,Thread Group 50 Users 1-4,text,true,,1350,1017,39,39,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,2812,0,52
+1766871430669,191,POST Login,200,OK,Thread Group 50 Users 1-4,text,true,,38427,2281,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,67,0,0
+1766871430669,67,POST Login-0,302,Found,Thread Group 50 Users 1-4,,true,,715,806,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,67,0,0
+1766871430736,73,POST Login-1,302,Found,Thread Group 50 Users 1-4,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,73,0,0
+1766871430810,50,POST Login-2,200,OK,Thread Group 50 Users 1-4,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,47,0,0
+1766871428511,2759,POST Login,200,OK,Thread Group 50 Users 1-17,text,true,,38427,2285,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2629,0,0
+1766871428511,2629,POST Login-0,302,Found,Thread Group 50 Users 1-17,,true,,715,810,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,2629,0,0
+1766871431140,71,POST Login-1,302,Found,Thread Group 50 Users 1-17,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,71,0,0
+1766871431211,59,POST Login-2,200,OK,Thread Group 50 Users 1-17,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,58,0,0
+1766871428900,2645,POST Login,200,OK,Thread Group 50 Users 1-27,text,true,,38427,2283,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2515,0,0
+1766871428900,2515,POST Login-0,302,Found,Thread Group 50 Users 1-27,,true,,715,808,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,2515,0,0
+1766871431416,74,POST Login-1,302,Found,Thread Group 50 Users 1-27,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,74,0,0
+1766871431490,55,POST Login-2,200,OK,Thread Group 50 Users 1-27,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,46,0,0
+1766871428946,2680,POST Login,200,OK,Thread Group 50 Users 1-28,text,true,,38427,2301,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,78,0,0
+1766871428946,78,POST Login-0,302,Found,Thread Group 50 Users 1-28,,true,,715,826,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,78,0,0
+1766871429024,2549,POST Login-1,302,Found,Thread Group 50 Users 1-28,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,2549,0,0
+1766871431573,53,POST Login-2,200,OK,Thread Group 50 Users 1-28,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,50,0,0
+1766871428959,2746,POST Login,200,OK,Thread Group 50 Users 1-19,text,true,,38427,2295,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2537,0,0
+1766871428959,2537,POST Login-0,302,Found,Thread Group 50 Users 1-19,,true,,715,820,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,2537,0,0
+1766871431497,157,POST Login-1,302,Found,Thread Group 50 Users 1-19,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,157,0,0
+1766871431654,51,POST Login-2,200,OK,Thread Group 50 Users 1-19,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,49,0,0
+1766871429037,2732,POST Login,200,OK,Thread Group 50 Users 1-30,text,true,,38427,2281,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,111,0,0
+1766871429037,111,POST Login-0,302,Found,Thread Group 50 Users 1-30,,true,,715,806,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,111,0,0
+1766871429148,2573,POST Login-1,302,Found,Thread Group 50 Users 1-30,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,2573,0,0
+1766871431721,48,POST Login-2,200,OK,Thread Group 50 Users 1-30,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,44,0,0
+1766871428990,2791,POST Login,200,OK,Thread Group 50 Users 1-29,text,true,,38427,2295,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,93,0,0
+1766871428990,93,POST Login-0,302,Found,Thread Group 50 Users 1-29,,true,,715,820,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,93,0,0
+1766871429084,2648,POST Login-1,302,Found,Thread Group 50 Users 1-29,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,2648,0,0
+1766871431732,49,POST Login-2,200,OK,Thread Group 50 Users 1-29,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,46,0,0
+1766871429345,2447,POST Login,200,OK,Thread Group 50 Users 1-38,text,true,,38427,2293,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2227,0,0
+1766871429345,2227,POST Login-0,302,Found,Thread Group 50 Users 1-38,,true,,715,818,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,2227,0,0
+1766871431572,167,POST Login-1,302,Found,Thread Group 50 Users 1-38,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,167,0,0
+1766871431739,53,POST Login-2,200,OK,Thread Group 50 Users 1-38,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,51,0,0
+1766871428756,3079,GET My Ticket,200,OK,Thread Group 50 Users 1-14,text,true,,4370,938,39,39,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",3079,0,0
+1766871429199,2669,POST Login,200,OK,Thread Group 50 Users 1-33,text,true,,38427,2299,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,66,0,0
+1766871429199,66,POST Login-0,302,Found,Thread Group 50 Users 1-33,,true,,715,824,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,66,0,0
+1766871429265,2553,POST Login-1,302,Found,Thread Group 50 Users 1-33,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,2553,0,0
+1766871431818,50,POST Login-2,200,OK,Thread Group 50 Users 1-33,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,48,0,0
+1766871429231,2660,POST Login,200,OK,Thread Group 50 Users 1-35,text,true,,38427,2285,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2539,0,0
+1766871429231,2539,POST Login-0,302,Found,Thread Group 50 Users 1-35,,true,,715,810,39,39,https://resonance.dibimbing.id/api/auth/callback/login?,2539,0,0
+1766871431770,67,POST Login-1,302,Found,Thread Group 50 Users 1-35,,true,,722,723,39,39,https://resonance.dibimbing.id/api/auth/signin?csrf=true,67,0,0
+1766871431838,53,POST Login-2,200,OK,Thread Group 50 Users 1-35,text,true,,36990,752,39,39,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,48,0,0
+1766871428316,3623,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,39,39,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",3623,0,0
+1766871428617,3362,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,39,39,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,3362,0,49
+1766871428737,3269,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,39,39,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",3269,0,0
+1766871427817,4199,POST Create User,200,OK,Thread Group 50 Users 1-3,text,true,,1350,1017,38,38,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,4199,0,87
+1766871431270,782,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,38,38,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,782,0,0
+1766871428937,3156,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,38,38,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",3156,0,0
+1766871429369,2730,POST Login,200,OK,Thread Group 50 Users 1-39,text,true,,38427,2301,37,37,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2611,0,0
+1766871429369,2611,POST Login-0,302,Found,Thread Group 50 Users 1-39,,true,,715,826,37,37,https://resonance.dibimbing.id/api/auth/callback/login?,2611,0,0
+1766871431980,57,POST Login-1,302,Found,Thread Group 50 Users 1-39,,true,,722,723,37,37,https://resonance.dibimbing.id/api/auth/signin?csrf=true,57,0,0
+1766871432037,62,POST Login-2,200,OK,Thread Group 50 Users 1-39,text,true,,36990,752,37,37,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,58,0,0
+1766871429325,2781,POST Login,200,OK,Thread Group 50 Users 1-37,text,true,,38427,2295,37,37,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,102,0,0
+1766871429325,102,POST Login-0,302,Found,Thread Group 50 Users 1-37,,true,,715,820,37,37,https://resonance.dibimbing.id/api/auth/callback/login?,102,0,0
+1766871429428,2603,POST Login-1,302,Found,Thread Group 50 Users 1-37,,true,,722,723,37,37,https://resonance.dibimbing.id/api/auth/signin?csrf=true,2603,0,0
+1766871432031,75,POST Login-2,200,OK,Thread Group 50 Users 1-37,text,true,,36990,752,37,37,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,68,0,0
+1766871429477,2634,POST Login,200,OK,Thread Group 50 Users 1-40,text,true,,38427,2291,37,37,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2516,0,0
+1766871429477,2516,POST Login-0,302,Found,Thread Group 50 Users 1-40,,true,,715,816,37,37,https://resonance.dibimbing.id/api/auth/callback/login?,2516,0,0
+1766871431993,62,POST Login-1,302,Found,Thread Group 50 Users 1-40,,true,,722,723,37,37,https://resonance.dibimbing.id/api/auth/signin?csrf=true,62,0,0
+1766871432056,55,POST Login-2,200,OK,Thread Group 50 Users 1-40,text,true,,36990,752,37,37,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,53,0,0
+1766871428620,3501,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",153299,1160,37,37,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",3471,0,0
+1766871432111,73,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1501,905,36,36,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,73,0,0
+1766871431545,667,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,36,36,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,667,0,0
+1766871429053,3163,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,36,36,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",3163,0,0
+1766871432016,214,POST Login,200,OK,Thread Group 50 Users 1-3,text,true,,38427,2289,36,36,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,83,0,0
+1766871432016,83,POST Login-0,302,Found,Thread Group 50 Users 1-3,,true,,715,814,36,36,https://resonance.dibimbing.id/api/auth/callback/login?,83,0,0
+1766871432099,75,POST Login-1,302,Found,Thread Group 50 Users 1-3,,true,,722,723,36,36,https://resonance.dibimbing.id/api/auth/signin?csrf=true,75,0,0
+1766871432174,56,POST Login-2,200,OK,Thread Group 50 Users 1-3,text,true,,36990,752,36,36,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,46,0,0
+1766871432052,200,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,36,36,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",200,0,0
+1766871429057,3196,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,36,36,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,3196,0,49
+1766871431979,289,POST Login,200,OK,Thread Group 50 Users 1-23,text,true,,38427,2289,36,36,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,161,0,0
+1766871431979,161,POST Login-0,302,Found,Thread Group 50 Users 1-23,,true,,715,814,36,36,https://resonance.dibimbing.id/api/auth/callback/login?,161,0,0
+1766871432140,82,POST Login-1,302,Found,Thread Group 50 Users 1-23,,true,,722,723,36,36,https://resonance.dibimbing.id/api/auth/signin?csrf=true,82,0,0
+1766871432222,46,POST Login-2,200,OK,Thread Group 50 Users 1-23,text,true,,36990,752,36,36,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,44,0,0
+1766871432212,70,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,36,36,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",70,0,0
+1766871431626,666,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,36,36,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,666,0,0
+1766871429665,2646,POST Login,200,OK,Thread Group 50 Users 1-46,text,true,,38427,2297,36,36,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2482,0,0
+1766871429665,2482,POST Login-0,302,Found,Thread Group 50 Users 1-46,,true,,715,822,36,36,https://resonance.dibimbing.id/api/auth/callback/login?,2482,0,0
+1766871432147,109,POST Login-1,302,Found,Thread Group 50 Users 1-46,,true,,722,723,36,36,https://resonance.dibimbing.id/api/auth/signin?csrf=true,109,0,0
+1766871432256,55,POST Login-2,200,OK,Thread Group 50 Users 1-46,text,true,,36990,752,36,36,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,50,0,0
+1766871432230,82,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,36,36,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,82,0,0
+1766871428974,3345,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,36,36,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,3345,0,53
+1766871432216,105,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,36,36,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",105,0,0
+1766871432184,141,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1835,938,35,35,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",141,0,0
+1766871432268,80,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,35,35,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,80,0,0
+1766871432282,73,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,35,35,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",73,0,0
+1766871432252,127,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,34,34,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",127,0,0
+1766871432311,73,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1500,905,33,33,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,73,0,0
+1766871432292,110,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,33,33,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",109,0,0
+1766871432325,79,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,33,33,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",79,0,0
+1766871432349,73,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,32,32,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",73,0,0
+1766871431769,656,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,32,32,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,656,0,0
+1766871432253,184,POST Login,200,OK,Thread Group 50 Users 1-34,text,true,,38427,2297,32,32,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,68,0,0
+1766871432253,68,POST Login-0,302,Found,Thread Group 50 Users 1-34,,true,,715,822,32,32,https://resonance.dibimbing.id/api/auth/callback/login?,68,0,0
+1766871432321,64,POST Login-1,302,Found,Thread Group 50 Users 1-34,,true,,722,723,32,32,https://resonance.dibimbing.id/api/auth/signin?csrf=true,64,0,0
+1766871432385,52,POST Login-2,200,OK,Thread Group 50 Users 1-34,text,true,,36990,752,32,32,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,48,0,0
+1766871432384,70,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,32,32,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",70,0,0
+1766871431792,699,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,32,32,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,699,0,0
+1766871432423,68,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,32,32,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",68,0,0
+1766871432425,76,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,31,31,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",76,0,0
+1766871429845,2662,POST Login,200,OK,Thread Group 50 Users 1-50,text,true,,38427,2295,31,31,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,2531,0,0
+1766871429845,2531,POST Login-0,302,Found,Thread Group 50 Users 1-50,,true,,715,820,31,31,https://resonance.dibimbing.id/api/auth/callback/login?,2531,0,0
+1766871432376,65,POST Login-1,302,Found,Thread Group 50 Users 1-50,,true,,722,723,31,31,https://resonance.dibimbing.id/api/auth/signin?csrf=true,65,0,0
+1766871432441,66,POST Login-2,200,OK,Thread Group 50 Users 1-50,text,true,,36990,752,31,31,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,64,0,0
+1766871431835,676,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,31,31,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",676,0,0
+1766871429496,3015,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,31,31,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,3015,0,57
+1766871432312,213,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1835,938,30,30,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",213,0,0
+1766871432454,71,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,30,30,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",71,0,0
+1766871432319,212,POST Login,200,OK,Thread Group 50 Users 1-32,text,true,,38427,2283,29,29,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,90,0,0
+1766871432319,90,POST Login-0,302,Found,Thread Group 50 Users 1-32,,true,,715,808,29,29,https://resonance.dibimbing.id/api/auth/callback/login?,90,0,0
+1766871432409,64,POST Login-1,302,Found,Thread Group 50 Users 1-32,,true,,722,723,29,29,https://resonance.dibimbing.id/api/auth/signin?csrf=true,64,0,0
+1766871432473,58,POST Login-2,200,OK,Thread Group 50 Users 1-32,text,true,,36990,752,29,29,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,52,0,0
+1766871432402,130,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,29,29,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",130,0,0
+1766871431891,663,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,28,28,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,663,0,0
+1766871431705,853,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,28,28,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,853,0,0
+1766871432491,69,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,28,28,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",69,0,0
+1766871432507,78,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,28,28,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,78,0,0
+1766871432525,69,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,28,28,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",69,0,0
+1766871432531,66,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,27,27,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,66,0,0
+1766871432501,102,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,27,27,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",102,0,0
+1766871432560,65,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,26,26,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",65,0,0
+1766871432555,70,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1835,938,26,26,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",70,0,0
+1766871429381,3247,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,25,25,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",3247,0,0
+1766871431868,775,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,25,25,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,775,0,0
+1766871427734,4909,POST Create User,200,OK,Thread Group 50 Users 1-1,text,true,,1350,1017,25,25,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,4909,0,170
+1766871432558,88,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1835,938,25,25,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",88,0,0
+1766871432585,66,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,25,25,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",66,0,0
+1766871432597,86,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,25,25,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",86,0,0
+1766871431940,769,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,25,25,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",769,0,0
+1766871432628,81,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,25,25,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",81,0,0
+1766871429403,3310,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,23,23,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",3310,0,0
+1766871432652,61,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,23,23,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",61,0,0
+1766871432646,75,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,22,22,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",75,0,0
+1766871432643,97,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1833,938,21,21,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",97,0,0
+1766871432512,247,POST Login,200,OK,Thread Group 50 Users 1-45,text,true,,38427,2293,21,21,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,103,0,0
+1766871432512,103,POST Login-0,302,Found,Thread Group 50 Users 1-45,,true,,715,818,21,21,https://resonance.dibimbing.id/api/auth/callback/login?,103,0,0
+1766871432615,92,POST Login-1,302,Found,Thread Group 50 Users 1-45,,true,,722,723,21,21,https://resonance.dibimbing.id/api/auth/signin?csrf=true,92,0,0
+1766871432708,51,POST Login-2,200,OK,Thread Group 50 Users 1-45,text,true,,36990,752,21,21,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,49,0,0
+1766871432683,77,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,21,21,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",77,0,0
+1766871432713,88,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,20,20,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",88,0,0
+1766871432099,703,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,19,19,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,703,0,0
+1766871432741,70,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,19,19,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",70,0,0
+1766871432760,77,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,18,18,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,77,0,0
+1766871429657,3207,POST Create User,500,Internal Server Error,Thread Group 50 Users 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1496,1017,18,18,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,3207,0,54
+1766871429763,3126,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,18,18,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,3126,0,0
+1766871432643,246,POST Login,200,OK,Thread Group 50 Users 1-1,text,true,,38427,2297,18,18,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,73,0,0
+1766871432643,73,POST Login-0,302,Found,Thread Group 50 Users 1-1,,true,,715,822,18,18,https://resonance.dibimbing.id/api/auth/callback/login?,73,0,0
+1766871432716,85,POST Login-1,302,Found,Thread Group 50 Users 1-1,,true,,722,723,18,18,https://resonance.dibimbing.id/api/auth/signin?csrf=true,85,0,0
+1766871432802,87,POST Login-2,200,OK,Thread Group 50 Users 1-1,text,true,,36990,752,18,18,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,81,0,0
+1766871432838,73,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1835,938,18,18,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",73,0,0
+1766871432625,314,Get Ticket Active,200,OK,Thread Group 50 Users 1-35,text,true,,152971,1160,18,18,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",233,0,0
+1766871432889,64,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1502,905,17,17,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,64,0,0
+1766871432889,81,GET My Ticket,200,OK,Thread Group 50 Users 1-42,text,true,,4370,938,17,17,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",81,0,0
+1766871432802,178,GET My Ticket,200,OK,Thread Group 50 Users 1-39,text,true,,4370,938,17,17,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",178,0,0
+1766871432911,76,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1839,1160,17,17,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",76,0,0
+1766871432953,75,GET My Ticket,500,Internal Server Error,Thread Group 50 Users 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1831,938,16,16,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",75,0,0
+1766871432980,77,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,16,16,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",77,0,0
+1766871432970,122,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1843,1160,15,15,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",122,0,0
+1766871432864,234,POST Login,200,OK,Thread Group 50 Users 1-49,text,true,,38427,2287,14,14,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,116,0,0
+1766871432864,116,POST Login-0,302,Found,Thread Group 50 Users 1-49,,true,,715,812,14,14,https://resonance.dibimbing.id/api/auth/callback/login?,116,0,0
+1766871432980,60,POST Login-1,302,Found,Thread Group 50 Users 1-49,,true,,722,723,14,14,https://resonance.dibimbing.id/api/auth/signin?csrf=true,60,0,0
+1766871433040,58,POST Login-2,200,OK,Thread Group 50 Users 1-49,text,true,,36990,752,14,14,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,45,0,0
+1766871429912,3200,Get Ticket Active,500,Internal Server Error,Thread Group 50 Users 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1841,1160,14,14,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",3200,0,0
+1766871433099,68,POST Create Ticket,500,Internal Server Error,Thread Group 50 Users 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1501,905,13,13,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,68,0,0
+1766871433029,171,Get Ticket Active,200,OK,Thread Group 50 Users 1-1,text,true,,152971,1160,13,13,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",125,0,0
+1766871433167,81,GET My Ticket,200,OK,Thread Group 50 Users 1-49,text,true,,4370,938,12,12,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",81,0,0
+1766871433249,173,Get Ticket Active,200,OK,Thread Group 50 Users 1-49,text,true,,152971,1160,12,12,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",129,0,0
+1766871430860,2567,POST Create Ticket,200,OK,Thread Group 50 Users 1-4,text,true,,1824,905,11,11,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,2567,0,0
+1766871433428,102,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,11,11,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",102,0,0
+1766871433530,98,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,11,11,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",98,0,0
+1766871428232,6183,POST Create Ticket,200,OK,Thread Group 50 Users 1-2,text,true,,1824,905,10,10,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,6183,0,0
+1766871434416,124,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,10,10,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",124,0,0
+1766871434541,131,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,10,10,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",131,0,0
+1766871428511,6517,POST Create Ticket,200,OK,Thread Group 50 Users 1-12,text,true,,1824,905,9,9,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,6517,0,0
+1766871435028,115,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,9,9,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",114,0,0
+1766871435145,111,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,9,9,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",111,0,0
+1766871431781,4992,POST Create Ticket,200,OK,Thread Group 50 Users 1-29,text,true,,1824,905,8,8,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,4992,0,0
+1766871436773,75,GET My Ticket,200,OK,Thread Group 50 Users 1-29,text,true,,4370,938,8,8,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",75,0,0
+1766871436849,360,Get Ticket Active,200,OK,Thread Group 50 Users 1-29,text,true,,152971,1160,8,8,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",335,0,0
+1766871428296,8979,POST Create User,200,OK,Thread Group 50 Users 1-15,text,true,,1350,1017,7,7,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,8979,0,50
+1766871437276,188,POST Login,200,OK,Thread Group 50 Users 1-15,text,true,,38427,2291,7,7,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,68,0,0
+1766871437276,68,POST Login-0,302,Found,Thread Group 50 Users 1-15,,true,,715,816,7,7,https://resonance.dibimbing.id/api/auth/callback/login?,68,0,0
+1766871437344,65,POST Login-1,302,Found,Thread Group 50 Users 1-15,,true,,722,723,7,7,https://resonance.dibimbing.id/api/auth/signin?csrf=true,65,0,0
+1766871437410,54,POST Login-2,200,OK,Thread Group 50 Users 1-15,text,true,,36990,752,7,7,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,50,0,0
+1766871430504,7066,POST Create Ticket,200,OK,Thread Group 50 Users 1-7,text,true,,1824,905,7,7,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,7066,0,0
+1766871437570,134,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,7,7,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",134,0,0
+1766871437705,99,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,7,7,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",99,0,0
+1766871428737,10183,POST Create User,200,OK,Thread Group 50 Users 1-26,text,true,,1350,1017,6,6,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,10182,0,49
+1766871438920,221,POST Login,200,OK,Thread Group 50 Users 1-26,text,true,,38427,2301,6,6,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,91,0,0
+1766871438920,91,POST Login-0,302,Found,Thread Group 50 Users 1-26,,true,,715,826,6,6,https://resonance.dibimbing.id/api/auth/callback/login?,91,0,0
+1766871439011,65,POST Login-1,302,Found,Thread Group 50 Users 1-26,,true,,722,723,6,6,https://resonance.dibimbing.id/api/auth/signin?csrf=true,65,0,0
+1766871439076,65,POST Login-2,200,OK,Thread Group 50 Users 1-26,text,true,,36990,752,6,6,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,48,0,0
+1766871428337,10850,POST Create User,200,OK,Thread Group 50 Users 1-16,text,true,,1350,1017,6,6,https://resonance.dibimbing.id/api/trpc/user.createUser?batch=1,10850,0,47
+1766871439187,186,POST Login,200,OK,Thread Group 50 Users 1-16,text,true,,38427,2295,6,6,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,69,0,0
+1766871439187,69,POST Login-0,302,Found,Thread Group 50 Users 1-16,,true,,715,820,6,6,https://resonance.dibimbing.id/api/auth/callback/login?,69,0,0
+1766871439256,59,POST Login-1,302,Found,Thread Group 50 Users 1-16,,true,,722,723,6,6,https://resonance.dibimbing.id/api/auth/signin?csrf=true,59,0,0
+1766871439315,58,POST Login-2,200,OK,Thread Group 50 Users 1-16,text,true,,36990,752,6,6,https://resonance.dibimbing.id/login?callbackUrl=https%3A%2F%2Fresonance.dibimbing.id,55,0,0
+1766871428592,10959,POST Create Ticket,200,OK,Thread Group 50 Users 1-13,text,true,,1824,905,6,6,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,10959,0,0
+1766871439551,130,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,6,6,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",130,0,0
+1766871439682,308,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",153299,1160,6,6,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",271,0,0
+1766871432437,8635,POST Create Ticket,200,OK,Thread Group 50 Users 1-34,text,true,,1824,905,5,5,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,8635,0,0
+1766871441074,110,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,5,5,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",110,0,0
+1766871441184,104,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,5,5,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",103,0,0
+1766871432106,9290,POST Create Ticket,200,OK,Thread Group 50 Users 1-37,text,true,,1824,905,4,4,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,9290,0,0
+1766871441400,146,GET My Ticket,200,OK,Thread Group 50 Users 1-37,text,true,,4370,938,4,4,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",146,0,0
+1766871441547,171,Get Ticket Active,200,OK,Thread Group 50 Users 1-37,text,true,,152971,1160,4,4,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",144,0,0
+1766871437465,4392,POST Create Ticket,200,OK,Thread Group 50 Users 1-15,text,true,,1824,905,3,3,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,4392,0,0
+1766871441858,115,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,3,3,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",115,0,0
+1766871441973,362,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",153299,1160,3,3,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",331,0,0
+1766871439142,4358,POST Create Ticket,200,OK,Thread Group 50 Users 1-26,text,true,,1824,905,2,2,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,4358,0,0
+1766871443501,114,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,2,2,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",114,0,0
+1766871443616,106,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,2,2,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",106,0,0
+1766871439373,5589,POST Create Ticket,200,OK,Thread Group 50 Users 1-16,text,true,,1824,905,1,1,https://resonance.dibimbing.id/api/trpc/ticket.createTicket?batch=1,5589,0,0
+1766871444963,136,GET My Ticket,207,Multi-Status,Thread Group 50 Users 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1553,938,1,1,"https://resonance.dibimbing.id/api/trpc/ticket.countMyTickets,ticket.myTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22limit%22%3A5%2C%22page%22%3A0%2C%22orderColumn%22%3A%22createdAt%22%2C%22orderBy%22%3A%22desc%22%7D%7D%7D",136,0,0
+1766871445100,106,Get Ticket Active,207,Multi-Status,Thread Group 50 Users 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[7]]]
+
+****** comparison: 20[[[0]]]
+
+/",1557,1160,1,1,"https://resonance.dibimbing.id/api/trpc/ticket.countActiveTickets,ticket.activeTickets?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22date%22%3A%222025-12-27T16%3A59%3A59.000Z%22%2C%22order%22%3A%22VOTE%22%2C%22search%22%3A%22%22%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22date%22%3A%5B%22Date%22%5D%7D%7D%7D%7D",106,0,0
